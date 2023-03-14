@@ -1,8 +1,10 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdio.h>
 
 /**
  * alloc_grind - nested loop to make grid
+ * Description: Returns pointer to integer
  * @width: width input
  * @height: height input
  * Return: pointer to 2 dimension array
